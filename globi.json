@@ -1,5 +1,5 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
-  "deprecated": false
+  "_comment": "GloBI dataset descriptor for push-pull interactions. See http://github.com/globalbioticinteractions for more information.",
+  "citation": "Tandon D. 2024. Push-pull interactions manually extracted from literature.",
+  "deprecated": true
 }
