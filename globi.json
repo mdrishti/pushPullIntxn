@@ -1,9 +1,8 @@
 { 
   "_comment": "GloBI dataset descriptor for push-pull interactions. See http://github.com/globalbioticinteractions for more information.",
   "citation": "Tandon D. 2024. Push-pull interactions manually extracted from literature.",
-  "deprecated": false
+  "deprecated": false,
   "version": "1.0"
-  "format": "csv"
 }
 
 
